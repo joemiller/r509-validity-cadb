@@ -6,6 +6,7 @@ spec = Gem::Specification.new do |s|
   s.version = R509::Validity::CADB::VERSION
   s.platform = Gem::Platform::RUBY
   s.has_rdoc = false
+  s.license = 'Apache-2.0'
   s.summary = 'A Validity::Checker for r509, implemented with an OpenSSL CA DB loader backend'
   s.description = 'A Validity::Checker for r509, implemented with an OpenSSL CA DB loader backend'
   s.add_dependency 'r509', '>= 0.9.0'
