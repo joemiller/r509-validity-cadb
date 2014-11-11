@@ -25,6 +25,6 @@ end
 
 desc 'Build yard documentation'
 task :yard do
-	puts `yard`
-	`open doc/index.html`
+  puts `yard`
+  `open doc/index.html`
 end
