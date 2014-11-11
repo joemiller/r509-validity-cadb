@@ -51,6 +51,14 @@ Contributing
 3. Add tests. `rake spec` to run test suite.
 4. Send PR
 
+Cutting a release
+-----------------
+
+1. Ensure tests passwd: `rake spec`
+2. Bump version in `lib/r509/validity/cadb/version.rb`
+3. Build gem `rake gem:build`
+4. Push gem to rubygems.org `rake gem push`
+
 Author
 ------
 
