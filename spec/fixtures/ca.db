@@ -1,0 +1,11 @@
+V	151108022009Z		01	unknown	/CN=example.tld/C=US/L=San Francisco/O=r509/ST=CA
+R	151109211046Z	141109211431Z	02	unknown	/CN=certified-test-1/C=US/L=San Francisco/OU=openvpn/O=r509/ST=CA
+V	151109211509Z		03	unknown	/CN=certified-test-1/C=US/L=San Francisco/OU=openvpn/O=r509/ST=CA
+R	151109234214Z	141109234412Z	04	unknown	/CN=client1/C=US/L=San Francisco/OU=openvpn/O=r509/ST=CA
+R	151109234537Z	141109235125Z	05	unknown	/CN=client2/C=US/L=San Francisco/OU=openvpn/O=r509/ST=CA
+V	151109235132Z		06	unknown	/CN=client3/C=US/L=San Francisco/OU=openvpn/O=r509/ST=CA
+V	151110002304Z		07	unknown	/CN=client3/C=US/L=San Francisco/OU=openvpn/O=r509/ST=CA
+V	151110003127Z		08	unknown	/CN=no-ou/C=US/L=San Francisco/O=r509/ST=CA
+R	151111050010Z	141111050204Z	09	unknown	/CN=revoke-test/C=US/L=San Francisco/O=r509/ST=CA
+R	151111050411Z	141111050416Z	0A	unknown	/CN=revoke-test2/C=US/L=San Francisco/O=r509/ST=CA
+R	151111050411Z	141111050416Z	0B	unknown	/CN=revoke-test2/C=US/L=San Francisco/O=r509/ST=CA
