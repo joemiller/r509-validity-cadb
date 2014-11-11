@@ -4,3 +4,5 @@ coverage
 .yardoc
 doc
 .coveralls.yml
+.bundle
+vendor
