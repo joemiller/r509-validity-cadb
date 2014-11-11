@@ -56,6 +56,7 @@ Cutting a release
 
 1. Ensure tests passwd: `rake spec`
 2. Bump version in `lib/r509/validity/cadb/version.rb`
+3. Create version tag `git tag v0.0.1`
 3. Build gem `rake gem:build`
 4. Push gem to rubygems.org `rake gem push`
 
