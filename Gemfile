@@ -9,7 +9,7 @@ platforms :rbx do
     gem 'rubinius-coverage'
 end
 group :documentation do
-    gem 'yard', '~>0.8.2'
+    gem 'yard', '~>0.9.11'
     gem 'redcarpet', '~>2.1.1'
     gem 'github-markup', '>=0.7.2'
 end
